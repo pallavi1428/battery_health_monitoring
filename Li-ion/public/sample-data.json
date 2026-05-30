@@ -1,0 +1,8 @@
+{
+  "B0005": {
+    "cycles": [1, 2, 3, 4, 5],
+    "capacity": [1.98, 1.97, 1.96, 1.95, 1.94],
+    "eol_threshold": 1.4,
+    "current_cycle": 5
+  }
+}
